@@ -1,0 +1,7 @@
+C:\Users\wamballa\OneDrive\Documents\Coding\automated-test-framework-light\C#\first-app\first-app\bin\Debug\first-app.exe.config
+C:\Users\wamballa\OneDrive\Documents\Coding\automated-test-framework-light\C#\first-app\first-app\bin\Debug\first-app.exe
+C:\Users\wamballa\OneDrive\Documents\Coding\automated-test-framework-light\C#\first-app\first-app\bin\Debug\first-app.pdb
+C:\Users\wamballa\OneDrive\Documents\Coding\automated-test-framework-light\C#\first-app\first-app\obj\Debug\first-app.csprojResolveAssemblyReference.cache
+C:\Users\wamballa\OneDrive\Documents\Coding\automated-test-framework-light\C#\first-app\first-app\obj\Debug\first-app.csproj.CoreCompileInputs.cache
+C:\Users\wamballa\OneDrive\Documents\Coding\automated-test-framework-light\C#\first-app\first-app\obj\Debug\first-app.exe
+C:\Users\wamballa\OneDrive\Documents\Coding\automated-test-framework-light\C#\first-app\first-app\obj\Debug\first-app.pdb
